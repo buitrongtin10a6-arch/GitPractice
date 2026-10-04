@@ -6,9 +6,9 @@ class Program
     {
         Console.WriteLine("Hello Git and GitHub");
 Console.WriteLine("Hello Git and GitHub");
-Console.WriteLine("Ho ten: Nguyen Van An");
-Console.WriteLine("MSSV: 123456");
-Console.WriteLine("Lop: CNTT01");
+Console.WriteLine("Ho ten: Bui Trong Tin");
+Console.WriteLine("MSSV: 24031299");
+Console.WriteLine("Lop: CNTT02");
 Console.WriteLine("Git Practice");
     }
 }
