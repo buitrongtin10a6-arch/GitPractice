@@ -2,9 +2,9 @@
 
 
 
-Họ tên: Nguyễn Văn An
+Họ tên: BuiTrongTin
 
-MSSV: 123456
+MSSV: 24031299
 
-Lớp: CNTT01
+Lớp: CNTT2
 
